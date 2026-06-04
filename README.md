@@ -313,7 +313,7 @@ There are a number of ways to ensure high availability in a cloud-based applicat
 * **Using health checks:** Health checks monitor the health of your application instances. If a health check fails, the application instance is restarted or removed from the load balancer.
 * **Using monitoring and alerting:** Monitoring and alerting tools can help you to identify and respond to problems with your application.
 
-### Benefits of using a Content Delivery Network (CDN) in the cloud
+### Benefits of using a Content Delivery Network (CDN) in the cloud - Continue from here
 
 A Content Delivery Network (CDN) is a network of servers that deliver content to users based on their geographic location. CDNs can improve the performance, reliability, and security of your cloud-based applications.
 
